@@ -1,0 +1,13 @@
+## Build outputs
+bin/
+obj/
+artifacts/
+tests/tests/validation/
+
+## IDE and user-specific files
+.vs/
+*.user
+*.suo
+
+## NuGet
+*.nupkg
